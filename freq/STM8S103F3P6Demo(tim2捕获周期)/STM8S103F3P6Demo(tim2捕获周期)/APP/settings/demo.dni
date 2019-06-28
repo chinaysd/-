@@ -1,0 +1,31 @@
+[DebugChecksum]
+Checksum=705552619
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Administrator\Desktop\STM8S103F3P6Demo(tim2PWM输出)\STM8S_Driver\src\stm8s_tim2.c" ""
+A1=_ "C:\Users\Administrator\Desktop\STM8S103F3P6Demo(串口中断发送)\Hal\Hal_uart1.c" ""
+A2=_ "C:\Users\Administrator\Desktop\STM8S103F3P6Demo(串口中断发送)\STM8S_Driver\src\stm8s_clk.c" ""
+Count=3
+SuppressDialog=1
